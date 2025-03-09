@@ -1223,3 +1223,6 @@
 3/9/2025 | 4:09:02 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
 3/9/2025 | 4:09:02 AM | INFO | Start process for wallet 0xc67bbf0ecF502F62068aD14E629B22a9da3EdC33 
 3/9/2025 | 4:09:03 AM | ERROR | Failed to retrieve nonce for wallet: 0xc67bbf0ecF502F62068aD14E629B22a9da3EdC33 
+3/9/2025 | 8:10:15 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+3/9/2025 | 8:10:15 AM | INFO | Start process for wallet 0xc67bbf0ecF502F62068aD14E629B22a9da3EdC33 
+3/9/2025 | 8:10:16 AM | ERROR | Failed to retrieve nonce for wallet: 0xc67bbf0ecF502F62068aD14E629B22a9da3EdC33 
