@@ -3356,3 +3356,12 @@
 4/16/2025 | 12:19:01 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 4/16/2025 | 12:19:01 PM | INFO | Trying to activate mining on-chain for wallet: 0xc67bbf0ecF502F62068aD14E629B22a9da3EdC33 
 4/16/2025 | 12:19:07 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x91d1a60fad5b25f1b323d8d33a974d3b5c4c5a63c3b518f1876e7fede194eecb 
+4/16/2025 | 4:12:50 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/16/2025 | 4:12:51 PM | INFO | Start process for wallet 0xc67bbf0ecF502F62068aD14E629B22a9da3EdC33 
+4/16/2025 | 4:12:52 PM | INFO | Trying To Login for wallet: 0xc67bbf0ecF502F62068aD14E629B22a9da3EdC33 
+4/16/2025 | 4:12:53 PM | INFO | Login successful... 
+4/16/2025 | 4:12:53 PM | INFO | Trying to check user info... 
+4/16/2025 | 4:12:54 PM | INFO | User ID: 156334242 | Twitter: @zayne_frost | Total Points: 1226680 
+4/16/2025 | 4:12:54 PM | INFO | Trying to check user miner status... 
+4/16/2025 | 4:12:59 PM | INFO | Last mining time: 4/16/2025, 12:19:06 PM
+4/16/2025 | 4:12:59 PM | WARN | Mining already started, next mining time is: 4/17/2025, 12:19:06 PM
