@@ -7889,3 +7889,15 @@
 7/5/2025 | 12:17:44 PM | INFO | Trying to activate mining on-chain for wallet: 0xc67bbf0ecF502F62068aD14E629B22a9da3EdC33 
 7/5/2025 | 12:17:49 PM | ERROR | Activate Mining Error: {"code":"UNKNOWN_ERROR","error":{"code":-32603,"message":"submit transaction to pool failed: Ok(ImmediatelyDropped)"},"payload":{"method":"eth_sendRawTransaction","params":["0x02f86b8204657980831e848082ed9594b3efe5105b835e5dd9d206445dbd66df24b912ab808402fb0c5ec080a03c4ee4d788a138bbbff730fb9f4a88ff614e8923e6299cf9715713c5ed72d08aa06e024ef547aadb6c1342678b5ce65cd8226fe36e4bbd7c2de1e6b57293df1aaa"],"id":10,"jsonrpc":"2.0"},"shortMessage":"could not coalesce error"}
 7/5/2025 | 12:17:49 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+7/5/2025 | 4:11:32 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+7/5/2025 | 4:11:32 PM | INFO | Start process for wallet 0xc67bbf0ecF502F62068aD14E629B22a9da3EdC33 
+7/5/2025 | 4:11:33 PM | INFO | Trying To Login for wallet: 0xc67bbf0ecF502F62068aD14E629B22a9da3EdC33 
+7/5/2025 | 4:11:34 PM | INFO | Login successful... 
+7/5/2025 | 4:11:34 PM | INFO | Trying to check user info... 
+7/5/2025 | 4:11:34 PM | INFO | User ID: 156334242 | Twitter: @zayne_frost | Total Points: 2930680 
+7/5/2025 | 4:11:34 PM | INFO | Trying to check user miner status... 
+7/5/2025 | 4:11:39 PM | INFO | Last mining time: 7/4/2025, 4:20:48 AM
+7/5/2025 | 4:11:39 PM | INFO | Trying to start Mining for wallet: 0xc67bbf0ecF502F62068aD14E629B22a9da3EdC33 
+7/5/2025 | 4:11:42 PM | INFO | Mine response: {"code":500,"msg":"startMining Fail, startMining has not reached refresh time","data":null}
+7/5/2025 | 4:11:42 PM | INFO | Trying to activate mining on-chain for wallet: 0xc67bbf0ecF502F62068aD14E629B22a9da3EdC33 
+7/5/2025 | 4:11:51 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x46e4c3bf4ffdbf9db864fe3e93c06c2b3e6be100140c0672cb30caa0fc2e9f85 
